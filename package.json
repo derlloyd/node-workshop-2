@@ -1,0 +1,19 @@
+{
+  "name": "first-workspace",
+  "version": "1.0.0",
+  "description": "various functions",
+  "main": "call-callbacks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derlloyd/node-workshop-2.git"
+  },
+  "author": "Derek <derlloyd@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derlloyd/node-workshop-2/issues"
+  },
+  "homepage": "https://github.com/derlloyd/node-workshop-2#readme"
+}
