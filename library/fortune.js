@@ -12,5 +12,5 @@ function getFortune(callback) {
 // getFortune(console.log);
 
 module.exports = {
-    getFortune: getFortune(console.log)
+    getFortune: getFortune
 }

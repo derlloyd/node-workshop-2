@@ -1,4 +1,4 @@
-var getFortune = require('.library/fortune.js');
+var getFortune = require('./library/fortune.js');
     
     
-getFortune(console.log);
+getFortune.getFortune(console.log);
